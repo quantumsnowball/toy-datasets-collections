@@ -1,0 +1,11 @@
+# git
+.git/
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+
+# google drive
+desktop.ini
