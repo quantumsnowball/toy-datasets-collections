@@ -10,6 +10,9 @@ __pycache__/
 # google drive
 desktop.ini
 
+# code snippets
+__gists__/
+
 # saved models
 *.h5
 *.sav
